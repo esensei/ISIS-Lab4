@@ -1,0 +1,1 @@
+open class Bird(open val moving_method: String, open val active_at: String, override val size: Int) : Animal(size)
